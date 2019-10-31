@@ -78,12 +78,13 @@ nav a{
 	 display: inline-block;
 	 
 	}
+#box{
+	background: blue;
+	position: fixed;
+	top:0;
+	width: 100%
 }
-.navigation{
-	margin: 2% 8%;
-	
-    
-}
+
 
 h1{
 	font-size: 40px;
@@ -95,7 +96,7 @@ h1{
 }
 .left{
 	display: inline-block;
-	width: 35%;
+	width: 50%;
 }
 .right{
 	display: inline-block;
