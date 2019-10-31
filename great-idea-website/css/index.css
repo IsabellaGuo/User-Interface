@@ -49,7 +49,8 @@ table {
 
 /* Set every element's box-sizing to border-box */
 * {
-    box-sizing: border-box;
+	box-sizing: border-box;
+	
 }
 
 html, body {
@@ -63,4 +64,102 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
 /* Your code starts here! */
+
+p{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+nav a{
+	 margin:20px;
+	 color:#bfbfbf;
+	 text-decoration: none;
+	 display: inline-block;
+	 
+	}
+}
+.navigation{
+	margin: 2% 8%;
+	
+    
+}
+
+h1{
+	font-size: 40px;
+	margin:30px;
+}
+
+.head{
+	display: inline-block;
+}
+.left{
+	display: inline-block;
+	width: 35%;
+}
+.right{
+	display: inline-block;
+    width: 35%;
+	margin: 30px;
+}
+button {
+		background-color: white;
+		border: 1px solid;
+		color: black;
+		padding: 5px 25px;
+		text-align: center;
+		font-size: 16px;
+		cursor: pointer;
+		display: inline-block;
+		
+		  
+		  
+	  }
+
+
+
+.equal1{
+	width: 40%;
+	height: 25%;
+	display: inline-block;
+}
+
+
+.top-content{
+	display: inline-block;
+	margin: 2% 8%;
+}
+
+p{
+	color: grey;
+}
+.middle-img{
+	margin: 2% 8%;
+}
+.equal2{
+	width: 26%;
+	height: 25%;
+	display: inline-block;
+	
+}
+.bottom-content{
+	display: inline-block;
+	margin: 2% 8%;
+}
+.phone{
+    margin: 8px 8px 8px 0;
+}
+.email{
+	margin: 5px;
+}
+.contact{
+	text-align: left;
+	margin: 50px 220px;
+}
+
+footer{
+	text-align: center;
+}
+.container{
+	text-align: center;
+}
